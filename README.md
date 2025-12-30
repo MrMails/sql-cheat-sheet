@@ -604,38 +604,4 @@ ORDER BY column1 [ASC|DESC], column2 [ASC|DESC];
 
 - `BOOLEAN` или `BIT`
 
----
 
-## 15. Дополнительные ресурсы
-
-- **Официальная документация**
-  - [Документация MySQL](https://dev.mysql.com/doc/)
-  - [Документация PostgreSQL](https://www.postgresql.org/docs/)
-  - [Документация SQL Server](https://docs.microsoft.com/ru-ru/sql/sql-server/)
-  - [Документация SQLite](https://www.sqlite.org/docs.html)
-- **Онлайн-учебники**
-  - [Учебник по SQL на W3Schools](https://www.w3schools.com/sql/)
-  - [Учебник по SQL на TutorialsPoint](https://www.tutorialspoint.com/sql/index.htm)
-- **Платформы для практики**
-  - [SQLBolt](https://sqlbolt.com/)
-  - [HackerRank SQL Challenges](https://www.hackerrank.com/domains/sql)
-  - [LeetCode Database Problems](https://leetcode.com/problemset/database/)
-
-### Инструменты на базе ИИ
-
-- **[AI2sql](https://www.ai2sql.io/)**: Генерация SQL-запросов из описания на естественном языке с использованием ИИ.
-
----
-
-## Как использовать эту шпаргалку
-
-- **Обучение**: Используйте это руководство как отправную точку для изучения синтаксиса и концепций SQL.
-- **Справочник**: Быстро находите синтаксис команд и функций SQL.
-- **Вклад**: Не стесняйтесь вносить свой вклад, предлагая улучшения или добавляя новые разделы.
-
-
----
-
-**Примечание:** Синтаксис SQL может незначительно отличаться в разных системах баз данных (например, MySQL, PostgreSQL, SQL Server, Oracle). Всегда обращайтесь к официальной документации используемой вами базы данных для получения точного синтаксиса и дополнительных функций.
-
----
